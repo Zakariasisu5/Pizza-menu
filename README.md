@@ -2,7 +2,7 @@
 
 A small React app showcasing a pizza menu with images, prices, and simple actions.
 
-![Uploading pizza-menu.jpeg…]()
+![Screenshot_20260211-132008_1](https://github.com/user-attachments/assets/e6baaeae-5be9-4780-8d74-0c42dc48c410)
 
 
 
