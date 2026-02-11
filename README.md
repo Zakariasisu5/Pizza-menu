@@ -2,7 +2,8 @@
 
 A small React app showcasing a pizza menu with images, prices, and simple actions.
 
-![Uploading Screenshot_11-2-2026_51543_pizza-menu-omega-hazel.vercel.app.jpeg…]()
+![Uploading pizza-menu.jpeg…]()
+
 
 
 ## Features
